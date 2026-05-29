@@ -1,0 +1,23 @@
+/* Femora — Base Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #fff;
+  color: #333;
+}
+
+section {
+  padding: 60px 20px;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+h1, h2 {
+  color: #8B1A4A;
+  margin-bottom: 16px;
+}
